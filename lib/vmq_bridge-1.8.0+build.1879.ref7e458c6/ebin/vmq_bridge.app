@@ -1,0 +1,13 @@
+{application,vmq_bridge,
+    [{description,"Bridge Plugin for VMQ"},
+     {vsn,"1.8.0+build.1879.ref7e458c6"},
+     {registered,[]},
+     {applications,[kernel,stdlib,clique]},
+     {mod,{vmq_bridge_app,[]}},
+     {env,
+         [{registry_mfa,{vmq_reg,direct_plugin_exports,[vmq_bridge]}},
+          {vmq_config_enabled,true},
+          {vmq_plugin_hooks,[{vmq_bridge_sup,change_config,1,[internal]}]},
+          {vmq_metrics_mfa,{vmq_bridge_sup,metrics,[]}},
+          {config,{[],[]}}]},
+     {modules,[vmq_bridge,vmq_bridge_app,vmq_bridge_cli,vmq_bridge_sup]}]}.

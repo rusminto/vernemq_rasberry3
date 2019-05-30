@@ -1,0 +1,34 @@
+2019/05/30-06:17:10.177514 5474a470                        Version: develop
+2019/05/30-06:17:10.177658 5474a470             Options.comparator: leveldb.InternalKeyComparator
+2019/05/30-06:17:10.177694 5474a470      Options.create_if_missing: 1
+2019/05/30-06:17:10.177727 5474a470        Options.error_if_exists: 0
+2019/05/30-06:17:10.177757 5474a470        Options.paranoid_checks: 0
+2019/05/30-06:17:10.177787 5474a470     Options.verify_compactions: 1
+2019/05/30-06:17:10.177816 5474a470                    Options.env: 0x73c01fd8
+2019/05/30-06:17:10.177848 5474a470               Options.info_log: 0x73f12680
+2019/05/30-06:17:10.177878 5474a470      Options.write_buffer_size: 54918747
+2019/05/30-06:17:10.177908 5474a470         Options.max_open_files: 1000
+2019/05/30-06:17:10.177937 5474a470            Options.block_cache: 0x73f14570
+2019/05/30-06:17:10.177968 5474a470             Options.block_size: 4096
+2019/05/30-06:17:10.177997 5474a470       Options.block_size_steps: 16
+2019/05/30-06:17:10.178027 5474a470 Options.block_restart_interval: 16
+2019/05/30-06:17:10.178056 5474a470            Options.compression: 1
+2019/05/30-06:17:10.178087 5474a470          Options.filter_policy: leveldb.BuiltinBloomFilter2
+2019/05/30-06:17:10.178117 5474a470              Options.is_repair: false
+2019/05/30-06:17:10.178147 5474a470         Options.is_internal_db: false
+2019/05/30-06:17:10.178176 5474a470      Options.total_leveldb_mem: 0
+2019/05/30-06:17:10.178208 5474a470  Options.block_cache_threshold: 33554432
+2019/05/30-06:17:10.178237 5474a470  Options.limited_developer_mem: false
+2019/05/30-06:17:10.178267 5474a470              Options.mmap_size: 0
+2019/05/30-06:17:10.178296 5474a470       Options.delete_threshold: 1000
+2019/05/30-06:17:10.178328 5474a470       Options.fadvise_willneed: false
+2019/05/30-06:17:10.178358 5474a470      Options.tiered_slow_level: 0
+2019/05/30-06:17:10.178387 5474a470     Options.tiered_fast_prefix: ./data/msgstore/6
+2019/05/30-06:17:10.178416 5474a470     Options.tiered_slow_prefix: ./data/msgstore/6
+2019/05/30-06:17:10.178563 5474a470                         crc32c: software
+2019/05/30-06:17:10.178595 5474a470   Options.cache_object_warming: true
+2019/05/30-06:17:10.178625 5474a470                File cache size: 0
+2019/05/30-06:17:10.178655 5474a470               Block cache size: 0
+2019/05/30-06:17:10.179304 5474a470 Recovering log #9
+2019/05/30-06:17:10.195585 5474a470 Delete type=0 #9
+2019/05/30-06:17:10.195749 5474a470 Delete type=3 #8

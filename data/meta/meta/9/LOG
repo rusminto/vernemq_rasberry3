@@ -1,0 +1,36 @@
+2019/05/30-06:17:08.832579 5c75a470                        Version: develop
+2019/05/30-06:17:08.832729 5c75a470             Options.comparator: leveldb.InternalKeyComparator
+2019/05/30-06:17:08.832765 5c75a470      Options.create_if_missing: 1
+2019/05/30-06:17:08.832796 5c75a470        Options.error_if_exists: 0
+2019/05/30-06:17:08.832826 5c75a470        Options.paranoid_checks: 0
+2019/05/30-06:17:08.832856 5c75a470     Options.verify_compactions: 1
+2019/05/30-06:17:08.832886 5c75a470                    Options.env: 0x73c01fd8
+2019/05/30-06:17:08.832915 5c75a470               Options.info_log: 0x73d10748
+2019/05/30-06:17:08.832945 5c75a470      Options.write_buffer_size: 47139098
+2019/05/30-06:17:08.832975 5c75a470         Options.max_open_files: 1000
+2019/05/30-06:17:08.833005 5c75a470            Options.block_cache: 0x73d13af0
+2019/05/30-06:17:08.833034 5c75a470             Options.block_size: 4096
+2019/05/30-06:17:08.833064 5c75a470       Options.block_size_steps: 16
+2019/05/30-06:17:08.833093 5c75a470 Options.block_restart_interval: 16
+2019/05/30-06:17:08.833122 5c75a470            Options.compression: 1
+2019/05/30-06:17:08.833151 5c75a470          Options.filter_policy: leveldb.BuiltinBloomFilter2
+2019/05/30-06:17:08.833182 5c75a470              Options.is_repair: false
+2019/05/30-06:17:08.833212 5c75a470         Options.is_internal_db: false
+2019/05/30-06:17:08.833241 5c75a470      Options.total_leveldb_mem: 0
+2019/05/30-06:17:08.833271 5c75a470  Options.block_cache_threshold: 33554432
+2019/05/30-06:17:08.833301 5c75a470  Options.limited_developer_mem: false
+2019/05/30-06:17:08.833330 5c75a470              Options.mmap_size: 0
+2019/05/30-06:17:08.833360 5c75a470       Options.delete_threshold: 1000
+2019/05/30-06:17:08.833390 5c75a470       Options.fadvise_willneed: false
+2019/05/30-06:17:08.833419 5c75a470      Options.tiered_slow_level: 0
+2019/05/30-06:17:08.833448 5c75a470     Options.tiered_fast_prefix: ./data/meta/meta/9
+2019/05/30-06:17:08.833477 5c75a470     Options.tiered_slow_prefix: ./data/meta/meta/9
+2019/05/30-06:17:08.833508 5c75a470                         crc32c: software
+2019/05/30-06:17:08.833537 5c75a470   Options.cache_object_warming: true
+2019/05/30-06:17:08.833567 5c75a470                File cache size: 0
+2019/05/30-06:17:08.833597 5c75a470               Block cache size: 0
+2019/05/30-06:17:08.834290 5c75a470 Recovering log #10
+2019/05/30-06:17:08.890092 5c75a470 Level-0 table #12: started
+2019/05/30-06:17:08.904372 5c75a470 Level-0 table #12: 549 bytes, 2 keys OK
+2019/05/30-06:17:08.917761 5c75a470 Delete type=0 #10
+2019/05/30-06:17:08.959573 5c75a470 Delete type=3 #8

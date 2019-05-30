@@ -1,0 +1,8 @@
+run_erl [1378] Thu May 30 06:16:52 2019
+Args before exec of shell:
+run_erl [1378] Thu May 30 06:16:52 2019
+argv[0] = sh
+run_erl [1378] Thu May 30 06:16:52 2019
+argv[1] = -c
+run_erl [1378] Thu May 30 06:16:52 2019
+argv[2] = exec /home/pi/vernemq/bin/vernemq console

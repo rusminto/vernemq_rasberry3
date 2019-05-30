@@ -1,0 +1,13 @@
+{application,vmq_webhooks,
+             [{description,"VerneMQ webhooks plugin"},
+              {vsn,"1.8.0+build.1879.ref7e458c6"},
+              {registered,[]},
+              {mod,{vmq_webhooks_app,[]}},
+              {applications,[kernel,stdlib,sasl,crypto,public_key,ssl,lager,
+                             clique,poolboy,jsx,hackney]},
+              {env,[{pool_max_connections,100},{pool_timeout,60000}]},
+              {modules,[vmq_webhooks_app,vmq_webhooks_cache,vmq_webhooks_cli,
+                        vmq_webhooks_plugin,vmq_webhooks_sup]},
+              {maintainers,[]},
+              {licenses,[]},
+              {links,[]}]}.
